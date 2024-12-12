@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-live hosted on: 
+live hosted on: https://frontend-pu-code-hackathon.vercel.app/
 
 ### `npm start`
 
